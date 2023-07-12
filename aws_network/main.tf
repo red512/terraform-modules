@@ -1,14 +1,3 @@
-#----------------------------------------------------------
-# My Terraform
-# Provision:
-#  - VPC
-#  - Internet Gateway
-#  - XX Public Subnets
-#  - XX Private Subnets
-#  - XX NAT Gateways in Public Subnets to give access to Internet from Private Subnets
-#
-# Made by Denis Astahov. Summer 2019
-#----------------------------------------------------------
 
 #==============================================================
 
